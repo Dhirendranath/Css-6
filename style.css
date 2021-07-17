@@ -1,0 +1,42 @@
+/* .container{
+  background-color: brown;
+   
+}
+div{
+  height: 100px;
+  width: 100px;
+}
+.first{
+  background-color: chocolate;
+}
+.second{
+  background-color: darkblue;
+  position: relative;
+  position: absolute;
+  left: 120px;
+  
+}
+.third{
+  background-color: cyan;
+} */
+
+h1{
+  font-size: 50px;
+  background-color: yellow;
+}
+@media screen and (min-width: 600px){
+  body{
+    background-color: red;
+  };
+  
+}
+@media screen and (min-width: 600px){
+  h1{
+    font-size: 200px;
+    background-color: blue;
+  };
+}
+
+
+
+
